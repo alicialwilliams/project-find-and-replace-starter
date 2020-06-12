@@ -35,7 +35,7 @@ replaceAllButton.addEventListener("click", function() {
         }
     }
 
-    console.log()
+    
 
 } )
     
